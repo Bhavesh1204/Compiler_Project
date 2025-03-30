@@ -44,6 +44,11 @@ app.post("/analyze", (req, res) => {
 });
 
 app.listen(process.env.PORT, () => console.log(`Server running on port ${process.env.PORT}`));
+
+
+
+// You want the changes then you can write below code 
+// It is updated code 
 // require("dotenv").config();
 // const express = require("express");
 // const cors = require("cors");
